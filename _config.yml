@@ -1,8 +1,7 @@
 ###########
-# site.title
 
-title: jekyllBear
-description: a minimal, text focused blog theme
+title: Atharva's Blog
+description: writing in public
 # baseurl: "/jekyllBear" # the subpath of your site, e.g. /blog/
 url: "https://atharvanihalani.github.io/test-website/" # the base hostname & protocol for your site
 # host: 0.0.0.0
