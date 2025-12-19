@@ -1,4 +1,10 @@
-### Draft III
+---
+layout: post
+title:  "I'm scared of writing"
+date:   2025-12-19 09:25:00 -0500
+tags:   [general]
+
+---
 
 I’m scared of writing.
 
