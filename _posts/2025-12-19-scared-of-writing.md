@@ -21,4 +21,8 @@ All this means, the process of writing is a painful, drawn-out experience. I suc
 There are many more reasons I’m terrified of writing. If I were to end now, I’d worry about this piece feeling incomplete. But hey, I’m just here for some ice-cream.  
 
 
+*Thanks to Jo Jiao for thoughtful criticism on my writing*
+
+
+
 [^1]:  Or, hey, that might just be me.
